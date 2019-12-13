@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","bitcoin_ticker|lib/price_screen.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
